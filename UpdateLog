@@ -1,0 +1,61 @@
+UPDATE V1.11
+(French)
+Corriger un bug de sauvegarde qui affectait tous mes plugins (maudit, copier-coller)
+(English)
+Fix a backup bug that affected all my plugins (damn, copy and paste)
+(Deutsche)
+Behebung eines Backup-Fehlers, der alle meine Plugins betraf (verdammt, kopieren und einfügen)
+
+UPDATE V1.09
+(French)
+Rajout d'une options pour verrouiller ou deverrouiller les icones
+(English)
+Addition of an option to lock or unlock the icons
+(Deutsche)
+Hinzufügen einer Option zum Sperren oder Entsperren der Symbole
+
+UPDATE V1.08
+(French)
+Corriger un petit bug crééer dans la dernier mise a jour
+(English)
+Corrected a small bug made in the last update
+(Deutsche)
+Ein kleiner Fehler im letzten Update wurde behoben
+
+UPDATE V1.04
+(French)
+Ajout d'une fenetre d'options qui vous permet de définir le nombre d'icone que vous voulez afficher
+Ajout d'une options pour supprimé la bordure de la fenetre
+(English)
+Added an options window that allows you to define the number of icons you want to display
+Added an option to remove the window border
+(Deutsche)
+Es wurde ein Optionsfenster hinzugefügt, in dem Sie die Anzahl der anzuzeigenden Symbole definieren können
+Option zum Entfernen des Fensterrahmens hinzugefügt
+
+UPDATE V1.03
+(French)
+mise a jour de l'icone pour quelle ressemble plus au icones de lotro taille 32x32
+(English)
+update of the icon to make it look more like the icons of lotro size 32x32
+(Deutsche)
+Aktualisierung des Symbols, damit es den Symbolen der Lotro-Größe 32x32 ähnelt
+
+UPDATE V1.02
+(French)
+cache automatiquement le fenetre au demarrage
+cache le bouton et la fentre en pressant sur F12
+(English)
+automatically hide the window at startup
+hide the button and the window by pressing F12
+(Deutsche)
+Das Fenster beim Start automatisch ausblenden
+Blenden Sie die Schaltfläche und das Fenster aus, indem Sie F12 drücken
+
+UPDATE V1.01
+(French)
+Changer la couleur du dernier raccourci pour parchemin de combat et ferme automatiquement la fenetre quand on clique dessus
+(English)
+Change the color of the last shortcut for battle scroll and automatically close the window when clicked
+(Deutsche)
+Ändern Sie die Farbe der letzten Verknüpfung für die Kampfrolle und schließen Sie das Fenster automatisch, wenn Sie darauf klicken
