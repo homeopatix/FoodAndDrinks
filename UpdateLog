@@ -1,3 +1,12 @@
+
+UPDATE V1.12
+(French)
+Rajout d'une ligne de commande pour activer la touche alt pour le deplacement de l'icone
+(English)
+Addition of a command line to activate the alt key for moving the icon
+(Deutsche)
+Hinzufügen einer Befehlszeile zum Aktivieren der Alt-Taste zum Verschieben des Symbols
+
 UPDATE V1.11
 (French)
 Corriger un bug de sauvegarde qui affectait tous mes plugins (maudit, copier-coller)
