@@ -1,3 +1,26 @@
+UPDATE V1.15
+(French)
+Réécrit complètement la partie localization
+(English)
+Completely rewrote the localization part
+(Deutsche)
+Der Lokalisierungsteil wurde komplett neu geschrieben
+
+UPDATE V1.14
+(French)
+Rajout d'une commande repos pour deplacer l'icone en ligne de commande
+(English)
+Addition of a repos command to move the icon in the command line
+(Deutsche)
+Hinzufügen eines Repos-Befehls zum Verschieben des Symbols in der Befehlszeile
+
+UPDATE V1.13
+(French)
+Rajout d'une commande toggle
+(English)
+Addition of a toggle command
+(Deutsche)
+Hinzufügen eines Umschaltbefehls
 
 UPDATE V1.12
 (French)
