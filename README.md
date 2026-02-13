@@ -59,29 +59,70 @@ It allows quick access to your consumables (food and drinks) during your adventu
 
 ---
 
-## 🧩 Installation
+# 🧩 Installation
 
-1. Download the plugin
-2. Extract into:
-Documents\The Lord of the Rings Online\Plugins\Homeopatix
-3. In game:
-/plugins load FoodAndDrinks
+1.  Télécharger le ZIP depuis GitHub ou LOTROInterface.
+2.  Extraire le dossier.
+3.  Copier le dossier `FoodAndDrinks` dans :
 
----
+    Documents\The Lord of the Rings Online\Plugins\Homeopatix
 
-## 💾 Data
+4.  En jeu :
+    
+    /plugins load FoodAndDrinks
 
-Data is stored in:
-Documents\The Lord of the Rings Online\PluginData\<Account>\<Server>\<Character>
+------------------------------------------------------------------------
 
----
+# 💾 Données & Synchronisation
 
-## ❗ Requirements
+Les paramètres sont sauvegardés automatiquement à chaque
+connexion/déconnexion.
 
-You need the Turbine package installed.
+Les fichiers sont enregistrés dans :
 
----
+    Documents\The Lord of the Rings Online\PluginData\<Compte>\<Serveur>\<Personnage>
 
-MIT License
+------------------------------------------------------------------------
+
+# 🏗️ Architecture
+
+-   Langage : **Lua**
+-   Type : Plugin LOTRO
+-   Stockage : Données locales (PluginData)
+-   Compatibilité : Toutes versions LOTRO récentes
+
+------------------------------------------------------------------------
+
+# ❗ Requirements / Besoins / Bedürfnisse
+
+## 🇫🇷 !!! Besoins !!!
+
+Vous devez avoir installé le package **Turbine**.\
+Vous pouvez le télécharger à cette adresse : **[ICI](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
+
+------------------------------------------------------------------------
+
+## 🇬🇧 !!! Needs !!!
+
+You need to have the **Turbine package** installed.\
+You can download it at this address: **[HERE](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
+
+------------------------------------------------------------------------
+
+## 🇩🇪 !!! Bedürfnisse !!!
+
+Sie müssen das **Turbine-Paket** installiert haben.\
+Sie können es unter dieser Adresse herunterladen: **[HIER](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
+
+------------------------------------------------------------------------
+
+# 📜 License
+
+This project is licensed under the MIT License -- see the LICENSE file
+for details.
+
+------------------------------------------------------------------------
+
+# 👤 Auteur
 
 Homeopatix
