@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Plugin>
+	<Information>
+		<Name>FoodAndDrinks</Name>
+		<Author>Homeopatix</Author>
+		<Version>1.16</Version>
+		<Description>
+DESCRIPTION (Francais)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+FoodAndDrinks est un petit plugin pour avoir un acces rapide a vos consomable
+
+Vous pouvez effacer un raccourci avec la mollete de la souris sur le reccourci
+
+Vous pouvez cliquez sur le bouton FOODANDDRINKS pour afficher la fenetre ou cliquez sur le bouton pour la cacher
+
+Vous pouvez ferme la fenetre en cliquant sur la croix
+et vous pouvez la reouvrir en cliquant sur l'icon FOODANDDRINKS
+
+DESCRIPTION (English)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+FoodAndDrinks is a small plugin to have quick access to your consomable
+
+You can delete a shortcut with the mouse wheel on the shortcut
+
+You can click the FOODANDDRINKS button to display the window or click the button to hide it
+
+You can close the window by clicking on the cross
+and you can reopen it by clicking on the icon FOODANDDRINKS
+
+DESCRIPTION (Deutsche)  
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+FoodAndDrinks ist ein kleines Plugin, mit dem Sie schnell auf Ihre consumable
+
+Sie konnen eine Verknupfung mit dem Mausrad auf der Verknupfung loschen
+
+Sie konnen auf die Schaltflache FOODANDDRINKS klicken, um das Fenster anzuzeigen, oder auf die Schaltflache klicken, um es auszublenden
+
+Sie konnen das Fenster schliessen, indem Sie auf das Kreuz klicken
+und Sie konnen es erneut offnen, indem Sie auf das Symbol FOODANDDRINKS klicken
+
+LIST OF ALL COMMANDS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+(French)
+/Fo help -- montre l aide
+(English)
+/Fo help - show the help
+(Deutsche)
+/Fo help - zeige das hilfe
+</Description>
+<Image>Homeopatix/FoodAndDrinks/Resources/pluginmanager_icon.tga</Image>
+	</Information>
+	<Package>Homeopatix.FoodAndDrinks.Main</Package>
+<Configuration Apartment="FoodAndDrinks" />
+</Plugin>
